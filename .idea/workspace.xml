@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba870b5a-ffef-48d0-bd4c-b4b62dbd9375" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/READEME.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/TestDemo/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/TestDemo/Numbers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestDemo/NumbersTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unittesting/AreaCounter.java" afterPath="$PROJECT_DIR$/src/main/java/unitTesting/AreaCounter.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unittesting/AreaCounterImpl.java" afterPath="$PROJECT_DIR$/src/main/java/unitTesting/AreaCounterImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unittesting/TriangleVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/unitTesting/TriangleVerifier.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unittesting/TriangleVerifierImpl.java" afterPath="$PROJECT_DIR$/src/main/java/unitTesting/TriangleVerifierImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/unittesting/AreaCounterTest.java" afterPath="$PROJECT_DIR$/src/test/java/unitTesting/AreaCounterTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/unittesting/TriangleVerifierImplTest.java" afterPath="$PROJECT_DIR$/src/test/java/unitTesting/TriangleVerifierImplTest.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unittesting/AreaCounter.class" afterPath="$PROJECT_DIR$/target/classes/unittesting/AreaCounter.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unittesting/AreaCounterImpl.class" afterPath="$PROJECT_DIR$/target/classes/unittesting/AreaCounterImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unittesting/TriangleVerifier.class" afterPath="$PROJECT_DIR$/target/classes/unittesting/TriangleVerifier.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/unittesting/TriangleVerifierImpl.class" afterPath="$PROJECT_DIR$/target/classes/unittesting/TriangleVerifierImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/unittesting/AreaCounterTest.class" afterPath="$PROJECT_DIR$/target/test-classes/unittesting/AreaCounterTest.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/unittesting/TriangleVerifierImplTest.class" afterPath="$PROJECT_DIR$/target/test-classes/unittesting/TriangleVerifierImplTest.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,26 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AreaCounterImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/unitTesting/AreaCounterImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MyMath.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/unitTestExample/MyMath.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,43 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyMathTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/unitTestExample/MyMathTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaUnitTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/unitTestExample/JavaUnitTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyBLogic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/unitTestExample/MyBLogic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MyBLogicTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/unitTestExample/MyBLogicTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            <state relative-caret-position="199">
+              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,12 +49,69 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="READEME.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyMathTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/unitTestExample/MyMathTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="58" column="11" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="61" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Numbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TestDemo/Numbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="e#80#81#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AreaCounterTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/unitTesting/AreaCounterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TriangleVerifierImplTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/unitTesting/TriangleVerifierImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumbersTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestDemo/NumbersTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="READEME.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/READEME.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="48">
-                <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <first_editor relative-caret-position="120">
+                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -112,21 +119,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBInt.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/unitTestExample/DBInt.java">
+      <file leaf-file-name="NewSuiteTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/suiteTest/NewSuiteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="61" />
-              <folding />
+            <state relative-caret-position="240">
+              <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/unitTestExample/DBase.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TestDemo/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="120">
+              <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -137,9 +150,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -177,6 +190,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/unitTestExample/MyBLogicTest.java" />
         <option value="$PROJECT_DIR$/READEME.md" />
+        <option value="$PROJECT_DIR$/src/main/java/TestDemo/Numbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TestDemo/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestDemo/NumbersTest.java" />
       </list>
     </option>
   </component>
@@ -252,28 +268,44 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unittect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unittect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unittect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unittect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="unitTestExample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unittect" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="unitTesting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unittect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unittect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -300,6 +332,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="TestDemo" />
       <recent name="unitTestExample" />
       <recent name="unittesting" />
     </key>
@@ -322,7 +355,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyBLogicTest.editItem">
+  <component name="RunManager" selected="JUnit.NumbersTest.powerAToB">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -338,6 +371,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="unitTestExample.JavaUnitTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="TestDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="TestDemo.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -413,45 +465,20 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MyMathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumbersTest.powerAToB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="unitTestExample.*" />
+          <option name="PATTERN" value="TestDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="unitTestExample" />
-      <option name="MAIN_CLASS_NAME" value="unitTestExample.MyMathTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="NewSuiteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="suiteTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="suiteTest" />
-      <option name="MAIN_CLASS_NAME" value="suiteTest.NewSuiteTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="TestDemo" />
+      <option name="MAIN_CLASS_NAME" value="TestDemo.NumbersTest" />
+      <option name="METHOD_NAME" value="powerAToB" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -524,19 +551,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MyMathTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.JavaUnitTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.NewSuiteTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MyBLogicTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MyBLogicTest.editItem" />
+      <item index="0" class="java.lang.String" itemvalue="Application.JavaUnitTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MyBLogicTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MyBLogicTest.editItem" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.NumbersTest.powerAToB" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MyBLogicTest.editItem" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MyBLogicTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.JavaUnitTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.NewSuiteTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MyMathTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.NumbersTest.powerAToB" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MyBLogicTest.editItem" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MyBLogicTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.JavaUnitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -556,44 +583,52 @@
       <workItem from="1524295865844" duration="13403000" />
       <workItem from="1524330119166" duration="1221000" />
       <workItem from="1524825812213" duration="726000" />
-      <workItem from="1525468001993" duration="11548000" />
+      <workItem from="1525468001993" duration="16048000" />
     </task>
+    <task id="LOCAL-00001" summary="ReadeMy">
+      <created>1525504957931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525504957931</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyBLogicTest - 2018.05.05 at 02h 35m 49s.xml">
-      <configuration name="MyBLogicTest" configurationId="JUnit" />
+    <history-entry file="NumbersTest_powerAToB - 2018.05.05 at 11h 04m 10s.xml">
+      <configuration name="NumbersTest.powerAToB" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBLogicTest - 2018.05.05 at 02h 36m 44s.xml">
-      <configuration name="MyBLogicTest" configurationId="JUnit" />
+    <history-entry file="NumbersTest_powerAToB - 2018.05.05 at 11h 04m 33s.xml">
+      <configuration name="NumbersTest.powerAToB" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBLogicTest - 2018.05.05 at 02h 37m 39s.xml">
-      <configuration name="MyBLogicTest" configurationId="JUnit" />
+    <history-entry file="NumbersTest_powerAToB - 2018.05.05 at 11h 06m 07s.xml">
+      <configuration name="NumbersTest.powerAToB" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBLogicTest - 2018.05.05 at 02h 40m 13s.xml">
-      <configuration name="MyBLogicTest" configurationId="JUnit" />
+    <history-entry file="NumbersTest_powerAToB - 2018.05.05 at 11h 06m 33s.xml">
+      <configuration name="NumbersTest.powerAToB" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBLogicTest_editItem - 2018.05.05 at 02h 35m 36s.xml">
-      <configuration name="MyBLogicTest.editItem" configurationId="JUnit" />
+    <history-entry file="NumbersTest_powerAToB - 2018.05.05 at 11h 13m 10s.xml">
+      <configuration name="NumbersTest.powerAToB" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBLogicTest_editItem - 2018.05.05 at 02h 43m 44s.xml">
-      <configuration name="MyBLogicTest.editItem" configurationId="JUnit" />
+    <history-entry file="NumbersTest_powerAToB - 2018.05.05 at 11h 14m 33s.xml">
+      <configuration name="NumbersTest.powerAToB" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBLogicTest_editItem - 2018.05.05 at 02h 43m 51s.xml">
-      <configuration name="MyBLogicTest.editItem" configurationId="JUnit" />
+    <history-entry file="NumbersTest_powerAToB - 2018.05.05 at 11h 14m 58s.xml">
+      <configuration name="NumbersTest.powerAToB" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBLogicTest_editItem - 2018.05.05 at 02h 43m 59s.xml">
-      <configuration name="MyBLogicTest.editItem" configurationId="JUnit" />
+    <history-entry file="NumbersTest_powerAToB - 2018.05.05 at 11h 20m 57s.xml">
+      <configuration name="NumbersTest.powerAToB" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBLogicTest_editItem - 2018.05.05 at 02h 44m 21s.xml">
-      <configuration name="MyBLogicTest.editItem" configurationId="JUnit" />
+    <history-entry file="NumbersTest_powerAToB - 2018.05.05 at 11h 21m 14s.xml">
+      <configuration name="NumbersTest.powerAToB" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyBLogicTest_editItem - 2018.05.05 at 02h 44m 30s.xml">
-      <configuration name="MyBLogicTest.editItem" configurationId="JUnit" />
+    <history-entry file="NumbersTest_powerAToB - 2018.05.05 at 11h 21m 49s.xml">
+      <configuration name="NumbersTest.powerAToB" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26898000" />
+    <option name="totallyTimeSpent" value="31398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -636,9 +671,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ReadeMy" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReadeMy" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -803,21 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/unitTesting/AreaCounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="65" column="32" lean-forward="true" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1706#1707#0" expanded="false" />
-            <element signature="e#1757#1758#0" expanded="false" />
-            <element signature="e#1809#1810#0" expanded="false" />
-            <element signature="e#1858#1859#0" expanded="false" />
-            <element signature="e#1909#1910#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/unitTesting/TriangleVerifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -834,36 +858,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/unitTesting/TriangleVerifierImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="e#374#375#0" expanded="false" />
-            <element signature="e#439#440#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/unitTesting/AreaCounter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/suiteTest/NewSuiteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -907,16 +906,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/unitTestExample/MyMathTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/unitTesting/AreaCounterImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -933,16 +922,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/unitTestExample/MyBLogicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/unitTestExample/MyMath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -951,14 +930,104 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/suiteTest/NewSuiteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/READEME.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="48">
-            <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <first_editor relative-caret-position="120">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.jar!/org/hamcrest/Matchers.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="382" column="34" lean-forward="false" selection-start-line="382" selection-start-column="34" selection-end-line="382" selection-end-column="34" />
+          <folding>
+            <element signature="e#13803#13804#0" expanded="true" />
+            <element signature="e#13859#13860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestDemo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestDemo/Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/unitTestExample/MyMathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="58" column="11" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="61" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/unitTestExample/MyBLogicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/unitTesting/TriangleVerifierImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/unitTesting/AreaCounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestDemo/NumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
