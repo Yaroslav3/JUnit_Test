@@ -1,4 +1,4 @@
-package unittesting;
+package unitTesting;
 
 public class AreaCounterImpl implements AreaCounter {
     private TriangleVerifier triangleVerifier;

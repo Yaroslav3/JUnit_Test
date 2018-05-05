@@ -1,4 +1,4 @@
-package unittesting;
+package unitTesting;
 
 public class TriangleVerifierImpl implements TriangleVerifier {
 
